@@ -1,0 +1,106 @@
+#navbar {
+    height: 84px;
+    background-color: white;
+}
+
+.container-fluid {
+    background-color: rgb(238, 77, 45);
+    height: 600px;
+}
+
+#container_col_b {
+    margin: auto;
+
+}
+
+#form_container {
+    width: 397px;
+    height: 482px;
+    float: left;
+    margin-left: 96px;
+}
+
+#login_label_container {
+    font-size: 24px;
+    width: 337px;
+    margin: auto;
+}
+
+#btn_login {
+    width: 337px;
+    height: 40px;
+
+}
+
+#forgot_password {
+    font-size: 14px;
+    color: blueviolet;
+}
+
+#login_form {
+    width: 337px;
+    margin: auto;
+}
+
+.btn-primary {
+    background: rgb(238, 77, 45);
+}
+
+
+#report_trouble {
+    font-size: 14px;
+    color: grey;
+    width: 337px;
+    text-align: center;
+
+}
+
+#logo {
+    width: 337px;
+
+}
+
+
+#carrot_logo_container {
+    color: white;
+    margin: auto;
+    justify-content: right;
+    text-align: right;
+
+}
+
+#carrot{
+    font-size: 220px;
+}
+
+#logo_title {
+    font-family: "trebuchet MS", sans-serif;
+    font-size: 50px;
+    color: white;
+    margin-top: 24px;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    letter-spacing: 0px;
+    line-height: 20px;
+}
+
+#header_logo{
+    font-size: 48px;
+    color: rgb(238, 77, 45);
+}
+
+#logo_slogan
+{
+    margin-top: 48px;
+}
+
+#header_logmark{
+    font-size: 34px;
+    color: rgb(238, 77, 45);
+}
+
+#login_header{
+    margin-left: 24px;
+    font-size:34px ;
+}
